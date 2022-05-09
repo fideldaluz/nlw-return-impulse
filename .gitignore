@@ -1,0 +1,4 @@
+web/package-lock.json
+node_modules
+.env
+.en.local
